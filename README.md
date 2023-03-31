@@ -12,7 +12,7 @@
 
 🛠️ My Tech Stack:
 
-- Java , Go
+- Java , Go , C
 - Spring , MyBatis , Alibaba Spring Cloud , Dubbo
 - Redis , MySQL , Elasticsearch
 - Linux , Shell , Docker
