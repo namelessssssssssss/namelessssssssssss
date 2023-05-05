@@ -2,7 +2,7 @@
 
 
 
-🔭 I'm currently working on GSoC2023 , and hope contributing more to the open source community in the future !
+🔭 I'm currently working on Dubbo community, and hope contributing more to the open source community in the future !
 
 
 
