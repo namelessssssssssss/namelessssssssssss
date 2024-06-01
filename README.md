@@ -2,19 +2,11 @@
 
 
 
-🔭 I'm currently working on Dubbo community, and hope contributing more to the open source community in the future !
+🔭 I'm currently working on Dubbo community.
 
 
 
-📫 How to reach me: x1544669126@gmail.com
+📫 How to reach me: luyue@apache.org
 
-
-
-🛠️ My Tech Stack:
-
-- Java , Go , C
-- Spring , MyBatis , Alibaba Spring Cloud , Dubbo
-- Redis , MySQL , Elasticsearch
-- Linux , Shell , Docker
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namelessssssssssss)](https://github.com/anuraghazra/github-readme-stats)
