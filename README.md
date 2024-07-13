@@ -6,4 +6,4 @@
 
 
 
-📫 How to reach me: luyue@apache.org
+📫 luyue@apache.org
